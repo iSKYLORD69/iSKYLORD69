@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lucky
-- 👀 I’m interested in ... Football , Coding , new languages , Games 
-- 🌱 I’m currently learning ... Python adv
-- 💞️ I’m looking to collaborate on ... Python projects 
-- 📫 How to reach me ... instagram - @lucky__.1.9
+- 👀 My Hobbies are ... Playing Football , Coding , Learning new languages , Playing Video Games , Editing vids .. 
+- 🌱 I’m currently learning ... Python adv Libs
+- 💞️ I know ...  - Python 🐍 , AIML , C (Beginner) , R , Java , Solidity , Rust 🦀 , SQL , HTML , CSS , Various tools and IDEs
+- 📫 How to connect with me ... discord,instagram - @1uckyofc  Linkedin- 1ucky-s
 - 😄 Pronouns: ... He/Him
 
 <!---
