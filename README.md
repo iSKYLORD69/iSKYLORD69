@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python adv Libs
 - 💞️ I know ...  - Python 🐍 , AIML , C (Beginner) , R , Java , Solidity , Rust 🦀 , SQL , HTML , CSS , Various tools and IDEs
 - 📫 How to connect with me ... Discord,instagram - @1uckyofc 
-- 😄 Pronouns: ... He/Him
+- 😄 Pronouns: ... He/Him 
 
 
 
