@@ -4,7 +4,7 @@
 - 💞️ I know ...  - Python 🐍 , AIML , C , R , Java , Solidity , Rust 🦀 , SQL , HTML , CSS , Various tools and IDEs
 - 📫 How to connect with me ... Discord,instagram - @1uckyofc 
 - 😄 Pronouns: ... He/Him.                                         
-   
+       
  
 
 <!---
