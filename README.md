@@ -2,7 +2,7 @@
 - 👀 My Hobbies are ... Playing Football , Coding , Learning new languages , Playing Video Games , Editing vids .. 
 - 🌱 I’m currently learning ... Python adv Libs
 - 💞️ I code in...  - Python 🐍 , C , R , Java , Solidity , Rust 🦀 , SQL , HTML , CSS , Various tools and IDEs
-- 📫 How to connect with me ... Discord,instagram  -  @1uckyofc  
+- 📫 How to connect with me ... Discord ,instagram  -  @1uckyofc  
 - 😄 Pronouns: ... He/Him.                                                                                                        
                                                
          
