@@ -4,7 +4,7 @@
 - 💞️ I code in...  - Python 🐍 , C , R , Java , Solidity , Rust 🦀 , SQL , HTML , CSS , Various tools and IDEs
 - 📫 Connect with me ... Discord ,instagram  -  @1uckyofc                        
 - 😄 Pronouns: ... He/Him.                                                                                                                                                                                           
-                                                                                                                                                         
+                                                                                                                                                           
                                                                                                                     
                                                                   
           
